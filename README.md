@@ -24,6 +24,7 @@ I created a scatterplot of the linear regression model to interpret the results
 
 * I trained and tested my data with a test size of 20%
 X - `trakus_index`, `latitude`, `longitude`
+
 y - `position_at_finish`
 
 **Linear regression and random forest models:**
