@@ -30,8 +30,8 @@ y - `position_at_finish`
 
 **Linear regression and random forest models:**
 * I calculated the mean square error (MSE) and coefficient of determination for both models. Unfortunately, the MSE for both models was fairly high and the R2 for both models was fairly low
-  
-      Method	             Train MSE	  Train R2	Test MSE	 Test R2
+
+  Method	             Train MSE	  Train R2	Test MSE	 Test R2
 
 0	Linear Regression	 6.43504	     0.007072	6.554409	 0.002301
 
