@@ -22,7 +22,7 @@ I created a scatterplot of the linear regression model to interpret the results
 ### Results
 * The first thing I did was update my dataframe to only containing races that took place at the Belmont track. I then updated the dataframe one more time to where the `trakus_index` of each row was equal to 40 that way I could look at the first 10 seconds of each race to see if that was a good predictor of the horses' `position_at_finish`
 
-* I trained and tested my data with a test size of 20%
+* Using scikit-learn, I trained and tested my data with a test size of 20%, and that allowed me to create each of the three models
 
 X - `trakus_index`, `latitude`, `longitude`
 
